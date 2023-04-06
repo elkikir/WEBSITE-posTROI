@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "posTROI", "posTROI.csproj", "{26C7D8E6-14DE-4EE8-9C25-59B2C3964066}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26C7D8E6-14DE-4EE8-9C25-59B2C3964066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26C7D8E6-14DE-4EE8-9C25-59B2C3964066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26C7D8E6-14DE-4EE8-9C25-59B2C3964066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26C7D8E6-14DE-4EE8-9C25-59B2C3964066}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC4CDDA5-A3E2-4138-B5AC-49B1C0FA3829}
+	EndGlobalSection
+EndGlobal
